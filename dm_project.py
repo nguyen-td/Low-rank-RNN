@@ -10,7 +10,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pdb
 import torch
-import torch.nn as nn
+import pytorch.nn as nn
 
 #plt.style.use('dark_background')
 
